@@ -1,7 +1,3 @@
-# -*- coding: utf-8 -*-
-
-# pyinstaller -n "TOTP" -F -i "authcode.ico" --add-data "authcode.ico;." authcodes.py
-
 import pyotp
 import pyperclip
 
