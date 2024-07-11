@@ -8,10 +8,10 @@
 ## Инструкция
 - запустить `TOTP.exe` или `main.py`
 - вставить TOTP ключ (можно вставлять нажатием в консоли правой кнопкой мыши)
-- нажать <Enter> -> получить КОД
+- нажать |Enter| -> получить КОД
 - **КОД сразу падает в буфер обмена** и его сразу можно вставлять куда нужно.
-- нажать еще раз <Enter> -> получть свежий КОД.
-- вставить другой TOTP ключ -> <Enter> -> КОД, ну вы поняли :)
+- нажать еще раз |Enter| -> получть свежий КОД.
+- вставить другой TOTP ключ -> |Enter| -> КОД, ну вы поняли :)
 
 P.S. Лично у меня эта штука круглосуточно на компе включена, чтоб всегда была под рукой.
 
@@ -28,10 +28,10 @@ For convenience (if you have Windows 8 or later), you can download the packed .e
 ## Instructions
 - Run `TOTP.exe` or `main.py`
 - Paste the TOTP key (you can paste by right-clicking in the console)
-- Press <Enter> to get the CODE
+- Press |Enter| to get the CODE
 - **The CODE is immediately copied to the clipboard** and can be pasted wherever needed.
-- Press <Enter> again to get a fresh CODE.
-- Paste another TOTP key -> <Enter> -> CODE, you get the idea :)
+- Press |Enter| again to get a fresh CODE.
+- Paste another TOTP key -> |Enter| -> CODE, you get the idea :)
 
 P.S. Personally, I have this tool running on my computer around the clock so it's always at hand.
 
